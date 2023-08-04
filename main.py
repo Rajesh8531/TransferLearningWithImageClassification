@@ -97,4 +97,4 @@ def upload():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', use_reloader=True, debug=True)
+    app.run( debug=False)
