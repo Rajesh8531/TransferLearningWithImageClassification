@@ -1,5 +1,5 @@
 tensorflow==2.10.1
 tensorflow-hub==0.13.0
 Flask==2.2.2
-numpy>=1.23.5
+numpy<=1.23.5
 PIL==9.4.0
